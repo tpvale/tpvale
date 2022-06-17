@@ -1,6 +1,5 @@
 # Hi!
 ##### BIO
-<p align="left"><img width=20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 #### I'm a Full-Stack Student working in São Paulo, Brazil.
 
