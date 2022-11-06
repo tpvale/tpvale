@@ -4,7 +4,7 @@
 #### I'm a Full-Stack Student working in São Paulo, Brazil.
 
 -   🏢  I'm currently working at  [**Visto Tecnologia**](https://visto.global/)
--   🌱  I’m currently learning HTML, CSS and Javascript.
+-   🌱  I’m currently learning Python.
 -    ⚡️  Fun fact: I'm a huge fan of Harry Potter
 
 ## Github Stats
